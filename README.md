@@ -1,4 +1,4 @@
-# Advanced AI Research Agent 🔬
+# Advanced AI Research Agent 
 
 A comprehensive, feature-rich research agent powered by Claude 3.5 Sonnet with multiple search capabilities, intelligent caching, and beautiful rich formatting.
 
